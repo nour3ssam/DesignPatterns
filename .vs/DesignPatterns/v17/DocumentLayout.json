@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\subjects\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\subjects\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\subjects\\youtubechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\subjects\\youtubechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 69,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeChannel.cs",
+              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\YoutubeChannel.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Subjects\\YoutubeChannel.cs",
+              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\YoutubeChannel.cs",
+              "RelativeToolTip": "ObserverPattern\\Subjects\\YoutubeChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:24:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Subjects\\ISubject.cs",
+              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\ISubject.cs",
+              "RelativeToolTip": "ObserverPattern\\Subjects\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:24:41.12Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:24:13.659Z",
+              "EditorCaption": ""
             }
           ]
         }
