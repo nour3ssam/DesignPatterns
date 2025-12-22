@@ -1,0 +1,15 @@
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.AssemblyInfoInputs.cache
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.AssemblyInfo.cs
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.csproj.CoreCompileInputs.cache
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.sourcelink.json
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\bin\Debug\net8.0\ObserverPattern02.exe
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\bin\Debug\net8.0\ObserverPattern02.deps.json
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\bin\Debug\net8.0\ObserverPattern02.runtimeconfig.json
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\bin\Debug\net8.0\ObserverPattern02.dll
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\bin\Debug\net8.0\ObserverPattern02.pdb
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.dll
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\refint\ObserverPattern02.dll
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.pdb
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ObserverPattern02.genruntimeconfig.cache
+C:\Users\klaco\source\repos\DesignPatterns\ObserverPattern02\obj\Debug\net8.0\ref\ObserverPattern02.dll
