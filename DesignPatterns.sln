@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "Observer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern02", "ObserverPattern02\ObserverPattern02.csproj", "{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pub&Sub", "Pub&Sub\Pub&Sub.csproj", "{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{A2A2D7EE-00ED-4A8F-90B5-1B72A1066B12} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{D65F569B-0FCA-4479-80E0-59AA26C4F7E0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C26F6A14-6087-46F2-8378-1B1FF9B3DB40} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F51AC19D-BF8D-47D3-B2D3-89FD8F0C42D6}

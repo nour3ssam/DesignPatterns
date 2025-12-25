@@ -3,60 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\observers\\orderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\observers\\orderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\observers\\logobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\observers\\logobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\observers\\emailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\observers\\emailobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\domain\\iordersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\domain\\iordersubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\domain\\iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\domain\\iorderobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\application\\ordersubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\application\\ordersubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern02\\observerpattern02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D65F569B-0FCA-4479-80E0-59AA26C4F7E0}|ObserverPattern02\\ObserverPattern02.csproj|solutionrelative:observerpattern02\\observerpattern02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{017EF831-4F2D-421B-8625-A0F27963A453}|StrategyPattern\\Strategy.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017EF831-4F2D-421B-8625-A0F27963A453}|StrategyPattern\\Strategy.csproj|solutionrelative:strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{017EF831-4F2D-421B-8625-A0F27963A453}|StrategyPattern\\Strategy.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\strategypattern\\customers\\readcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017EF831-4F2D-421B-8625-A0F27963A453}|StrategyPattern\\Strategy.csproj|solutionrelative:strategypattern\\customers\\readcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\subjects\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\subjects\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\observerpattern\\subjects\\youtubechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD8B0DB-DB3D-4D67-880B-7644DC52AA96}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\subjects\\youtubechannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}|Pub\u0026Sub\\Pub\u0026Sub.csproj|c:\\users\\klaco\\source\\repos\\designpatterns\\pub\u0026sub\\eventtags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26F6A14-6087-46F2-8378-1B1FF9B3DB40}|Pub\u0026Sub\\Pub\u0026Sub.csproj|solutionrelative:pub\u0026sub\\eventtags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,112 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 69,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOrderSubject.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\IOrderSubject.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Domain\\IOrderSubject.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\IOrderSubject.cs",
-              "RelativeToolTip": "ObserverPattern02\\Domain\\IOrderSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:18:47.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IOrderObserver.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\IOrderObserver.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Domain\\IOrderObserver.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\IOrderObserver.cs",
-              "RelativeToolTip": "ObserverPattern02\\Domain\\IOrderObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:18:47.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\Order.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Domain\\Order.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Domain\\Order.cs",
-              "RelativeToolTip": "ObserverPattern02\\Domain\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:18:47.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderSubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Application\\OrderSubjectService.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Application\\OrderSubjectService.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Application\\OrderSubjectService.cs",
-              "RelativeToolTip": "ObserverPattern02\\Application\\OrderSubjectService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:16:14.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderObserver.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\OrderObserver.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Observers\\OrderObserver.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\OrderObserver.cs",
-              "RelativeToolTip": "ObserverPattern02\\Observers\\OrderObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:14:05.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogObserver.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\LogObserver.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Observers\\LogObserver.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\LogObserver.cs",
-              "RelativeToolTip": "ObserverPattern02\\Observers\\LogObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:14:04.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmailObserver.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\EmailObserver.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Observers\\EmailObserver.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Observers\\EmailObserver.cs",
-              "RelativeToolTip": "ObserverPattern02\\Observers\\EmailObserver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:14:04.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ObserverPattern02",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\ObserverPattern02.csproj",
-              "RelativeDocumentMoniker": "ObserverPattern02\\ObserverPattern02.csproj",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\ObserverPattern02.csproj",
-              "RelativeToolTip": "ObserverPattern02\\ObserverPattern02.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-22T14:12:32.083Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -179,76 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Program.cs",
-              "RelativeDocumentMoniker": "ObserverPattern02\\Program.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern02\\Program.cs",
-              "RelativeToolTip": "ObserverPattern02\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAAAyAAAAAAAAAA==",
+              "Title": "EventTags.cs",
+              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\Pub\u0026Sub\\EventTags.cs",
+              "RelativeDocumentMoniker": "Pub\u0026Sub\\EventTags.cs",
+              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\Pub\u0026Sub\\EventTags.cs",
+              "RelativeToolTip": "Pub\u0026Sub\\EventTags.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:11:56.023Z",
+              "WhenOpened": "2025-12-25T16:10:57.596Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\StrategyPattern\\Program.cs",
-              "RelativeDocumentMoniker": "StrategyPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\StrategyPattern\\Program.cs",
-              "RelativeToolTip": "StrategyPattern\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T12:43:09.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReadCustomers.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\StrategyPattern\\Customers\\ReadCustomers.cs",
-              "RelativeDocumentMoniker": "StrategyPattern\\Customers\\ReadCustomers.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\StrategyPattern\\Customers\\ReadCustomers.cs",
-              "RelativeToolTip": "StrategyPattern\\Customers\\ReadCustomers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T12:42:58.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "YoutubeChannel.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\YoutubeChannel.cs",
-              "RelativeDocumentMoniker": "ObserverPattern\\Subjects\\YoutubeChannel.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\YoutubeChannel.cs",
-              "RelativeToolTip": "ObserverPattern\\Subjects\\YoutubeChannel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T08:24:53.046Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISubject.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\ISubject.cs",
-              "RelativeDocumentMoniker": "ObserverPattern\\Subjects\\ISubject.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Subjects\\ISubject.cs",
-              "RelativeToolTip": "ObserverPattern\\Subjects\\ISubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T08:24:41.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Program.cs",
-              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\klaco\\source\\repos\\DesignPatterns\\ObserverPattern\\Program.cs",
-              "RelativeToolTip": "ObserverPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T08:24:13.659Z"
             }
           ]
         }
