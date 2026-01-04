@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "BehaviouralDesi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy02", "BehaviouralDesignPatterns\Strategy02\Strategy02.csproj", "{6441829E-2CBF-3A76-C98D-3B830905C788}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralDesignPatterns", "StructuralDesignPatterns", "{E9AC4CD0-8341-49A5-BA39-27B89F6FBEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "CreationalDesignPatterns\FactoryMethodPattern\FactoryMethodPattern.csproj", "{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{6441829E-2CBF-3A76-C98D-3B830905C788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6441829E-2CBF-3A76-C98D-3B830905C788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6441829E-2CBF-3A76-C98D-3B830905C788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +61,7 @@ Global
 		{9B09D379-0C5D-4525-56F9-546C52C008E2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{878BAB12-2A53-76A7-ADA4-DDAE447D22AC} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{6441829E-2CBF-3A76-C98D-3B830905C788} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{ABBBE778-AC93-43D5-A6DA-CE0FBFD5557C} = {A9B4D8D6-DC6C-4395-8A67-34815D72DBDF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F51AC19D-BF8D-47D3-B2D3-89FD8F0C42D6}
