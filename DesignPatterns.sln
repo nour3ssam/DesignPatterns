@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain Of Responsability", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "CreationalDesignPatterns\SingletonPattern\SingletonPattern.csproj", "{F9FD9E66-AF8E-49D4-BD57-3019D99CFDEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "StructuralDesignPatterns\Decorator\Decorator.csproj", "{5DA683BE-935C-69AF-87C8-7546F7D37218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F9FD9E66-AF8E-49D4-BD57-3019D99CFDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9FD9E66-AF8E-49D4-BD57-3019D99CFDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9FD9E66-AF8E-49D4-BD57-3019D99CFDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA683BE-935C-69AF-87C8-7546F7D37218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA683BE-935C-69AF-87C8-7546F7D37218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA683BE-935C-69AF-87C8-7546F7D37218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA683BE-935C-69AF-87C8-7546F7D37218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +103,7 @@ Global
 		{A9FAF463-3389-4DBD-8BF2-1A0D9688D499} = {A9B4D8D6-DC6C-4395-8A67-34815D72DBDF}
 		{65887581-32EB-4541-8AE9-DCB9867FF767} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F9FD9E66-AF8E-49D4-BD57-3019D99CFDEF} = {A9B4D8D6-DC6C-4395-8A67-34815D72DBDF}
+		{5DA683BE-935C-69AF-87C8-7546F7D37218} = {E9AC4CD0-8341-49A5-BA39-27B89F6FBEAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F51AC19D-BF8D-47D3-B2D3-89FD8F0C42D6}
